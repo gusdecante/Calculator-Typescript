@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Calculadora com Typescript
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Calculadora feita em Typescript para o curso da Udemy de <React + Redux: Fundamentos e 2 Apps do Absoluto Zero>
 
 ## Available Scripts
 
